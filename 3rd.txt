@@ -1,2 +1,4 @@
 git training
+newline in 3rd file
 another line
+
